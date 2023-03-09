@@ -13,7 +13,6 @@ và thay đổi một file bất kì khác
 >>>>>>> HoangThiNgoc
 var app = express();
 <<<<<<< HEAD
-11111111111111111111111
 =======
 >>>>>>> HoangThiNgoc
 // view engine setup
