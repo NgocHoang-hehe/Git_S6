@@ -12,11 +12,14 @@ và thay đổi một file bất kì khác
 =======
 >>>>>>> HoangThiNgoc
 var app = express();
+<<<<<<< HEAD
 11111111111111111111111
+=======
+>>>>>>> HoangThiNgoc
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
-
+111
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
