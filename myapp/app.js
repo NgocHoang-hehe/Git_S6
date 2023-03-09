@@ -1,7 +1,7 @@
 1111111111111111111111111111111
 var express = require('express');
 var path = require('path');
-var cookieParser = require('cookie-parser');
+222222222222222222222222222222222222
 var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
