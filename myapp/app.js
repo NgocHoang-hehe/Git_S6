@@ -12,9 +12,9 @@ và thay đổi một file bất kì khác
 =======
 >>>>>>> HoangThiNgoc
 var app = express();
-<<<<<<< HEAD
+5688999
 =======
->>>>>>> HoangThiNgoc
+1233
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
