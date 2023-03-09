@@ -6,8 +6,11 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var mongoose = require('mongoose');
+<<<<<<< HEAD
 và thay đổi một file bất kì khác
 - Commit và push lên Remote
+=======
+>>>>>>> HoangThiNgoc
 var app = express();
 
 // view engine setup
