@@ -5,7 +5,7 @@ var path = require('path');
 var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
-var mongoose = require('mongoose');
+9999999999999999999999999999999
 <<<<<<< HEAD
 và thay đổi một file bất kì khác
 - Commit và push lên Remote
